@@ -1,0 +1,1 @@
+console.log("Projeto Node.js configurado com sucesso");
